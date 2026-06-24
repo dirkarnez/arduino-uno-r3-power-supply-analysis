@@ -1,10 +1,13 @@
 arduino-uno-r3-power-supply-analysis
 ====================================
 [Schematics](https://docs.arduino.cc/resources/schematics/A000066-schematics.pdf)
+
 ### Notes
+- `TP` stands for Test Point
+
+### Notepad
 ```
 USB -> Fuse -> USBVCC -> UVCC
-
 
 (VCC-AVCC -> +5V ->  NCP1117ST50T3G) / (DC Jack -> Diode)-> VIN
 
