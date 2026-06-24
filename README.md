@@ -1,5 +1,6 @@
 arduino-uno-r3-power-supply-analysis
 ====================================
+[Schematics](https://docs.arduino.cc/resources/schematics/A000066-schematics.pdf)
 ### Notes
 ```
 USB -> Fuse -> USBVCC -> UVCC
