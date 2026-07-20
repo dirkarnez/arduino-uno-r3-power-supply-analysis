@@ -13,6 +13,8 @@ USB -> Fuse -> USBVCC -> UVCC
 
 (has Vin ? Vin : USBVCC) -> lp2985-33dbvr -> 3V3
 ```
+
 ### Tutorials
 - [**Arduino UNO R3: Complete and detailed hardware review - YouTube**](https://www.youtube.com/watch?v=U8SgBDKu_Gs)
 - [Arduino Uno R3: Directly supply regulated 5V to 5V pin? - Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/questions/65576/arduino-uno-r3-directly-supply-regulated-5v-to-5v-pin)
+- [经典电路：外置USB供电与内置锂电池供电自动切换电路_电子基础-面包板社区](https://mbb.eet-china.com/forum/topic/161049_1_1.html)
